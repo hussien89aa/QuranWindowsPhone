@@ -1,0 +1,70 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="mediaplayer.AddBackgroundTransfer"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="/ImageSetting/backgroundimage.png"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Orientation="Vertical">
+            <StackPanel Orientation="Horizontal">
+                <CheckBox Name="wifiOnlyCheckbox" IsChecked="True" ></CheckBox>
+                <TextBlock x:Name="txtonlywifi" Text="only download when WiFi is available." VerticalAlignment="Center" Foreground="{StaticResource PhoneAccentBrush}"></TextBlock>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <CheckBox Name="externalPowerOnlyCheckbox" IsChecked="True" ></CheckBox>
+                <TextBlock x:Name="txtExternal" Text="only download when connected to external power." VerticalAlignment="Center" Foreground="{StaticResource PhoneAccentBrush}" TextWrapping="Wrap" Height="60" Width="374"></TextBlock>
+            </StackPanel>
+        </StackPanel>
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <ListBox Name="ListAuther65" Foreground="#FF8D2C2C">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Background="Transparent" Margin="0,0,0,3">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="270"/>
+                                <ColumnDefinition Width="150"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid Grid.Column="0">
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock x:Name="txtAyaName" Text="{Binding RealName}" TextWrapping="Wrap" Style="{StaticResource PhoneTextExtraLargeStyle}" TextAlignment="Left" FontSize="28"/>
+
+                                    <TextBlock Text="{Binding ServerName}" TextWrapping="Wrap"  Style="{StaticResource PhoneTextSubtleStyle}"/>
+                                </StackPanel>
+                            </Grid>
+                            <Grid Grid.Column="1">
+                                <Button Tag="{Binding ServerName}"    Content="Download" Height="72" HorizontalAlignment="Left" Name="button1" VerticalAlignment="Top" Width="150" FontSize="18" Click="addButton_Click" FontFamily="Portable User Interface" Foreground="#FF229E33" FontWeight="Bold">
+                                    <Button.Background>
+                                        <ImageBrush Stretch="Uniform" ImageSource="/ImageSetting/downloads-19.png"/>
+                                    </Button.Background>
+                                </Button>
+
+                            </Grid>
+                        </Grid>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

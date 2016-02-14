@@ -1,0 +1,77 @@
+﻿<phone:PhoneApplicationPage x:Name="menuitem"
+    x:Class="mediaplayer.Downloads"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="/ImageSetting/backgroundimage.png"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel >
+            <TextBlock Text="you have no transfers registered" Name="EmptyTextBlock" Visibility="Collapsed"/>
+
+        </StackPanel>
+
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <ListBox Name="TransferListBox" Foreground="#FF8D2C2C">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Background="Transparent" Margin="0,0,0,30">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="380"/>
+                                <ColumnDefinition Width="50"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid Grid.Column="0">
+                                <StackPanel Orientation="Horizontal">
+                                    <Image Stretch="Fill" Source="/ImageSetting/downloads-19.png" Width="100" Height="100" />
+                                    <StackPanel Orientation="Vertical">
+                                    <TextBlock Text="{Binding Tag}"  Foreground="{StaticResource PhoneAccentBrush}" FontWeight="Bold" FontFamily="Portable User Interface"/>
+                                     
+                                    <StackPanel Orientation="Horizontal">
+                                        <ProgressBar IsIndeterminate="False"  Height="10" Width="200" Value="{Binding BytesReceived}" Maximum="{Binding TotalBytesToReceive}" FontFamily="Portable User Interface"   />
+                                       
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock Text="Downloading: " FontFamily="Portable User Interface"/>
+                                            <TextBlock x:Name="txtdo"   HorizontalAlignment="Right" FontFamily="Portable User Interface"/>
+                                          
+                                        </StackPanel>
+                                </StackPanel>
+                                </StackPanel>
+                            </Grid>
+                            <Grid Grid.Column="1">
+                                <Button Tag="{Binding RequestId}" Click="CancelButton_Click" Content="X" BorderBrush="Red" Background="Red" Foreground="{StaticResource PhoneBackgroundBrush}" VerticalAlignment="Top" BorderThickness="0" Width="50" Padding="0,0,0,0"></Button>
+                            </Grid>
+                        </Grid>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </Grid>
+
+    </Grid>
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton x:Name="addb" IconUri="/Assets/AppBar/download.png" Text="Downloads" Click="AddBackgroundTransferButton_Click"/>
+            <shell:ApplicationBarIconButton x:Name="cancel" IconUri="/Assets/AppBar/cancel.png" Text="Cancel All" Click="CancelAllButton_Click"/>
+
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+</phone:PhoneApplicationPage>

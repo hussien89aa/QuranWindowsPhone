@@ -1,0 +1,89 @@
+﻿<phone:PhoneApplicationPage xmlns:GoogleAds="clr-namespace:GoogleAds;assembly=GoogleAds" 
+    x:Class="mediaplayer.PlayList"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="/ImageSetting/backgroundimage.png"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1">
+   <StackPanel Orientation="Vertical"  HorizontalAlignment="Center" >
+                <StackPanel Height="500" Orientation="Vertical">
+                  
+                   
+                    <phone:LongListSelector x:Name="ListAuther65"  ItemsSource="{Binding AutherListInfo}" SelectionChanged="MainLongListSelector_SelectionChanged" Height="500" Foreground="#FF8D2C2C" >
+                        <phone:LongListSelector.ItemTemplate>
+                            <DataTemplate>
+
+
+                                <StackPanel Orientation="Horizontal" Margin="0,0,0,17">
+
+                                    <Image Height="70" Width="70" Source="{Binding ImgUrl}"   Margin="12,0,9,0"/>
+
+                                    <StackPanel  Margin="5,0,0,0" >
+
+                                        <TextBlock Text="{Binding RealName}"   TextWrapping="Wrap" Style="{StaticResource PhoneTextExtraLargeStyle}" FontSize="28"/>
+
+                                        <TextBlock Text="{Binding ServerName}" TextWrapping="Wrap" Margin="12,-6,12,0" Style="{StaticResource PhoneTextSubtleStyle}"/>
+                                        <TextBlock Text="{Binding StateName}" TextWrapping="Wrap" Margin="12,-6,12,0" Style="{StaticResource PhoneTextSubtleStyle}" Foreground="#9916F13E" TextAlignment="Right"/>
+
+                                    </StackPanel>
+
+                                </StackPanel>
+                            </DataTemplate>
+                        </phone:LongListSelector.ItemTemplate>
+                    </phone:LongListSelector>
+
+                </StackPanel>
+                <StackPanel Orientation="Vertical"  Height="123" HorizontalAlignment="Center" >
+
+                    <StackPanel Orientation="Horizontal" Height="30" HorizontalAlignment="Center" Width="436" Margin="0" Canvas.ZIndex="2" >
+                        <TextBlock x:Name="txtpos" HorizontalAlignment="Left"   TextWrapping="Wrap" Text="00:00:00" VerticalAlignment="Top" RenderTransformOrigin="0.532,1.099" Width="150" Margin="11,0,0,0" Foreground="#FF8D2C2C"/>
+                        <TextBlock x:Name="txtlength" HorizontalAlignment="Right"   TextWrapping="Wrap" Text="Total time" VerticalAlignment="Top" Width="164.806" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" TextAlignment="Right" Margin="110,0,1,0" Foreground="#FF8D2C2C">
+                            <TextBlock.RenderTransform>
+                                <CompositeTransform Rotation="0.137"/>
+                            </TextBlock.RenderTransform>
+                        </TextBlock>
+                    </StackPanel>
+                    <StackPanel Height="80" Canvas.ZIndex="1">
+                        <Slider x:Name="bupos"  HorizontalAlignment="Center"  VerticalAlignment="Top" Width="436" SmallChange="1" Background="#FFDE2F1E" Foreground="#FF4AB262" Height="93" MouseLeftButtonUp="bupos_MouseLeftButtonUp" />
+                        <TextBlock x:Name="PlayAya" Text="Media Player" Margin="0,-65,0,0" Style="{StaticResource PhoneTextTitle1Style}" Height="40" Foreground="#FFDE1212" HorizontalAlignment="Right" Width="470" FontSize="20" Canvas.ZIndex="1" TextAlignment="Center"/>
+                    </StackPanel>
+
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Height="120" HorizontalAlignment="Center" >
+                    <Image Source="/ImageSetting/img_btn_previous.png" Stretch="Fill" Height="85" MouseLeftButtonUp="Image_MouseLeftButtonUp_1" />
+                    <Image x:Name="Backword" Source="/ImageSetting/img_btn_backward.png" Stretch="Fill" Height="85" MouseLeftButtonUp="Backword_Click"/>
+                    <Image x:Name="Forword" Source="/ImageSetting/img_btn_forward.png" Stretch="Fill" Height="85" MouseLeftButtonUp="Forword_Click" />
+                    <Image Source="/ImageSetting/img_btn_next.png" Stretch="Fill" Height="85" MouseLeftButtonUp="Image_MouseLeftButtonUp"/>
+                    <Image Source="/ImageSetting/downloads-19.png" Stretch="Fill" Height="85" MouseLeftButtonUp="AddBackgroundTransferButton_Click"/>
+
+                </StackPanel>
+
+            </StackPanel>
+        </Grid>
+
+    </Grid>
+
+</phone:PhoneApplicationPage>

@@ -1,0 +1,168 @@
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Debug\mediaplayer.dll
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Debug\mediaplayer.pdb
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Debug\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Debug\AppManifest.xaml
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Debug\mediaplayer_Debug_AnyCPU.xap
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Debug\App.g.cs
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Debug\AutherList.g.cs
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Debug\MainPage.g.cs
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Debug\PlayList.g.cs
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Debug\mediaplayer.g.resources
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Debug\mediaplayer.Resources.AppResources.resources
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Debug\mediaplayer.Resources.AppResources.ar.resources
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Debug\mediaplayer.csproj.GenerateResource.Cache
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Debug\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Debug\mediaplayer.dll
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Debug\mediaplayer.pdb
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Debug\XapCacheFile.xml
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Debug\AddBackgroundTransfer.g.cs
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Debug\Downloads.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Debug\mediaplayer.dll
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Debug\mediaplayer.pdb
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Debug\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Debug\AppManifest.xaml
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Debug\mediaplayer_Debug_AnyCPU.xap
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Debug\App.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Debug\AddBackgroundTransfer.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Debug\AutherList.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Debug\Downloads.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Debug\MainPage.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Debug\PlayList.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Debug\mediaplayer.g.resources
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Debug\mediaplayer.Resources.AppResources.resources
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Debug\mediaplayer.Resources.AppResources.ar.resources
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Debug\mediaplayer.csproj.GenerateResource.Cache
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Debug\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Debug\mediaplayer.dll
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Debug\mediaplayer.pdb
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Debug\XapCacheFile.xml
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Debug\mediaplayer.dll
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Debug\mediaplayer.pdb
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Debug\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Debug\AppManifest.xaml
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Debug\mediaplayer_Debug_AnyCPU.xap
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Debug\App.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Debug\AddBackgroundTransfer.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Debug\AutherList.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Debug\Downloads.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Debug\MainPage.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Debug\PlayList.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.g.resources
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.Resources.AppResources.resources
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.Resources.AppResources.ar.resources
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.csproj.GenerateResource.Cache
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Debug\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.dll
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.pdb
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Debug\XapCacheFile.xml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Debug\mediaplayer.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Debug\mediaplayer.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Debug\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Debug\AppManifest.xaml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Debug\mediaplayer_Debug_AnyCPU.xap
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Debug\MyAudioPlaybackAgent.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Debug\MyAudioPlaybackAgent.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.csprojResolveAssemblyReference.cache
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Debug\App.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Debug\AddBackgroundTransfer.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Debug\AutherList.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Debug\Downloads.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Debug\MainPage.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Debug\PlayList.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.g.resources
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.Resources.AppResources.resources
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.Resources.AppResources.ar.resources
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.csproj.GenerateResource.Cache
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Debug\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Debug\XapCacheFile.xml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Debug\mediaplayer.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Debug\mediaplayer.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Debug\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Debug\AppManifest.xaml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Debug\mediaplayer_Debug_AnyCPU.xap
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Debug\GoogleAds.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Debug\MyAudioPlaybackAgent.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Debug\MyAudioPlaybackAgent.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Debug\GoogleAds.xml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.csprojResolveAssemblyReference.cache
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Debug\App.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Debug\AddBackgroundTransfer.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Debug\AutherList.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Debug\Downloads.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Debug\MainPage.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Debug\PlayList.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.g.resources
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.Resources.AppResources.resources
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.Resources.AppResources.ar.resources
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.csproj.GenerateResource.Cache
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Debug\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Debug\XapCacheFile.xml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Debug\mediaplayer.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Debug\mediaplayer.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Debug\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Debug\AppManifest.xaml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Debug\mediaplayer_Debug_AnyCPU.xap
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Debug\MyAudioPlaybackAgent.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Debug\MyAudioPlaybackAgent.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Debug\GoogleAds.xml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.csprojResolveAssemblyReference.cache
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Debug\App.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Debug\AddBackgroundTransfer.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Debug\AutherList.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Debug\Downloads.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Debug\MainPage.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Debug\PlayList.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.g.resources
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.Resources.AppResources.resources
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.Resources.AppResources.ar.resources
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.csproj.GenerateResource.Cache
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Debug\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Debug\mediaplayer.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Debug\XapCacheFile.xml

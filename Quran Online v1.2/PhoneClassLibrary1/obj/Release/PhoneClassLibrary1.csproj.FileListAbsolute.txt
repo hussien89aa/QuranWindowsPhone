@@ -1,0 +1,4 @@
+D:\Quran online v 2.0\Quran Online v1.2\PhoneClassLibrary1\Bin\Release\PhoneClassLibrary1.dll
+D:\Quran online v 2.0\Quran Online v1.2\PhoneClassLibrary1\Bin\Release\PhoneClassLibrary1.pdb
+D:\Quran online v 2.0\Quran Online v1.2\PhoneClassLibrary1\obj\Release\PhoneClassLibrary1.dll
+D:\Quran online v 2.0\Quran Online v1.2\PhoneClassLibrary1\obj\Release\PhoneClassLibrary1.pdb

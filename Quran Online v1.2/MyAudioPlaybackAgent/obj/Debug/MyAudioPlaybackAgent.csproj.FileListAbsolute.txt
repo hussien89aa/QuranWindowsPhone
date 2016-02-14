@@ -1,0 +1,12 @@
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.pdb

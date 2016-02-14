@@ -1,0 +1,227 @@
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Release\mediaplayer.dll
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Release\mediaplayer.pdb
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Release\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Release\AppManifest.xaml
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\Bin\Release\mediaplayer_Release_AnyCPU.xap
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Release\App.g.cs
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Release\AddBackgroundTransfer.g.cs
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Release\AutherList.g.cs
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Release\Downloads.g.cs
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Release\MainPage.g.cs
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Release\PlayList.g.cs
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Release\mediaplayer.g.resources
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Release\mediaplayer.Resources.AppResources.resources
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Release\mediaplayer.Resources.AppResources.ar.resources
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Release\mediaplayer.csproj.GenerateResource.Cache
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Release\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Release\mediaplayer.dll
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Release\mediaplayer.pdb
+C:\Users\ASUS S550C\documents\visual studio 2013\Projects\mediaplayer\mediaplayer\obj\Release\XapCacheFile.xml
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Release\mediaplayer.dll
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Release\mediaplayer.pdb
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Release\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Release\AppManifest.xaml
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\Bin\Release\mediaplayer_Release_AnyCPU.xap
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Release\App.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Release\AddBackgroundTransfer.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Release\AutherList.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Release\Downloads.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Release\MainPage.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Release\PlayList.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Release\mediaplayer.g.resources
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Release\mediaplayer.Resources.AppResources.resources
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Release\mediaplayer.Resources.AppResources.ar.resources
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Release\mediaplayer.csproj.GenerateResource.Cache
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Release\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Release\mediaplayer.dll
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Release\mediaplayer.pdb
+C:\Users\ASUS S550C\Desktop\Quran Online v1.0\mediaplayer\obj\Release\XapCacheFile.xml
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Release\mediaplayer.dll
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Release\mediaplayer.pdb
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Release\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Release\AppManifest.xaml
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\Bin\Release\mediaplayer_Release_AnyCPU.xap
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Release\App.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Release\AddBackgroundTransfer.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Release\AutherList.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Release\Downloads.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Release\MainPage.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Release\PlayList.g.cs
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.g.resources
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.Resources.AppResources.resources
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.Resources.AppResources.ar.resources
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.csproj.GenerateResource.Cache
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Release\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.dll
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.pdb
+C:\Users\ASUS S550C\Desktop\Quran Online v1.2\mediaplayer\obj\Release\XapCacheFile.xml
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\Assets\ApplicationIcon.png
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\IconicTileSmall.png
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\mediaplayer.dll
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\mediaplayer.pdb
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\ar\mediaplayer.resources.dll
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\AppManifest.xaml
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\Properties\WMAppManifest.xml
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\mediaplayer_Release_AnyCPU.xap
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\MyAudioPlaybackAgent.dll
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\MyAudioPlaybackAgent.pdb
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.csprojResolveAssemblyReference.cache
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\App.g.cs
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\AddBackgroundTransfer.g.cs
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\AutherList.g.cs
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\Downloads.g.cs
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\MainPage.g.cs
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\PlayList.g.cs
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.g.resources
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.Resources.AppResources.resources
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.Resources.AppResources.ar.resources
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.csproj.GenerateResource.Cache
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\ar\mediaplayer.resources.dll
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.dll
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.pdb
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\XapCacheFile.xml
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\PhoneClassLibrary1.dll
+D:\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\PhoneClassLibrary1.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\mediaplayer.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\mediaplayer.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\AppManifest.xaml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\mediaplayer_Release_AnyCPU.xap
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\MyAudioPlaybackAgent.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\Bin\Release\MyAudioPlaybackAgent.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.csprojResolveAssemblyReference.cache
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\App.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\AddBackgroundTransfer.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\AutherList.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\Downloads.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\MainPage.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\PlayList.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.g.resources
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.Resources.AppResources.resources
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.Resources.AppResources.ar.resources
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.csproj.GenerateResource.Cache
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.0\Quran Online v1.2\mediaplayer\obj\Release\XapCacheFile.xml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Release\mediaplayer.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Release\mediaplayer.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Release\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Release\AppManifest.xaml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Release\mediaplayer_Release_AnyCPU.xap
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Release\MyAudioPlaybackAgent.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\Bin\Release\MyAudioPlaybackAgent.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.csprojResolveAssemblyReference.cache
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Release\App.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Release\AddBackgroundTransfer.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Release\AutherList.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Release\Downloads.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Release\MainPage.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Release\PlayList.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.g.resources
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.Resources.AppResources.resources
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.Resources.AppResources.ar.resources
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.csproj.GenerateResource.Cache
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Release\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.1\Quran Online v1.2\mediaplayer\obj\Release\XapCacheFile.xml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Release\mediaplayer.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Release\mediaplayer.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Release\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Release\AppManifest.xaml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Release\mediaplayer_Release_AnyCPU.xap
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Release\GoogleAds.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Release\MyAudioPlaybackAgent.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Release\MyAudioPlaybackAgent.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\Bin\Release\GoogleAds.xml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.csprojResolveAssemblyReference.cache
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Release\App.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Release\AddBackgroundTransfer.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Release\AutherList.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Release\Downloads.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Release\MainPage.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Release\PlayList.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.g.resources
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.Resources.AppResources.resources
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.Resources.AppResources.ar.resources
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.csproj.GenerateResource.Cache
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Release\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.2\Quran Online v1.2\mediaplayer\obj\Release\XapCacheFile.xml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.csprojResolveAssemblyReference.cache
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Release\App.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Release\AddBackgroundTransfer.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Release\AutherList.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Release\Downloads.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Release\MainPage.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Release\PlayList.g.cs
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.g.resources
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.Resources.AppResources.resources
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.Resources.AppResources.ar.resources
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.csproj.GenerateResource.Cache
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Release\mediaplayer.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Release\mediaplayer.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Release\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Release\AppManifest.xaml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Release\mediaplayer_Release_AnyCPU.xap
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Release\MyAudioPlaybackAgent.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\Bin\Release\MyAudioPlaybackAgent.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Release\ar\mediaplayer.resources.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.dll
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Release\mediaplayer.pdb
+C:\Users\ASUS S550C\Desktop\Quran online v 2.3\Quran Online v1.2\mediaplayer\obj\Release\XapCacheFile.xml
